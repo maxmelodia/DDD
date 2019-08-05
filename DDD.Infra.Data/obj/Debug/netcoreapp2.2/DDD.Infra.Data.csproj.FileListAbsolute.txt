@@ -1,0 +1,14 @@
+D:\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.deps.json
+D:\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.runtimeconfig.json
+D:\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.runtimeconfig.dev.json
+D:\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.dll
+D:\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.pdb
+D:\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+D:\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.csprojAssemblyReference.cache
+D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.csproj.CoreCompileInputs.cache
+D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.AssemblyInfoInputs.cache
+D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.AssemblyInfo.cs
+D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.csproj.CopyComplete
+D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.dll
+D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.pdb

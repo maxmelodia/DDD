@@ -1,0 +1,14 @@
+D:\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Service.deps.json
+D:\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Service.dll
+D:\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Service.pdb
+D:\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+D:\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Infra.Data.dll
+D:\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+D:\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Infra.Data.pdb
+D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.csprojAssemblyReference.cache
+D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.csproj.CoreCompileInputs.cache
+D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.AssemblyInfoInputs.cache
+D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.AssemblyInfo.cs
+D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.csproj.CopyComplete
+D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.dll
+D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.pdb
