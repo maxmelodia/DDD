@@ -16,7 +16,6 @@ namespace DDD.Infra.Data.Mapping
         .IsRequired()
         .HasColumnName("Name");
 
-     /*
       builder.Property(c => c.Codigo)
         .IsRequired()
         .HasColumnName("Codigo");
@@ -24,9 +23,7 @@ namespace DDD.Infra.Data.Mapping
       builder.Property(c => c.Fabricante)
         .IsRequired()
         .HasColumnName("Fabricante");
-
-
-        
+       
       builder.Property(c => c.Preco)
         .IsRequired()
         .HasColumnName("Preco");
@@ -34,7 +31,11 @@ namespace DDD.Infra.Data.Mapping
       builder.Property(c => c.SKU)
         .IsRequired()
         .HasColumnName("SKU");        
-      */  
+
+      builder.Property(c => c.Peso)
+        .IsRequired()
+        .HasColumnName("Peso");        
+
     }
 	}
 }

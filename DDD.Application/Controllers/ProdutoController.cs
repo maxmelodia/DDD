@@ -2,7 +2,8 @@ using System;
 using Microsoft.AspNetCore.Mvc;
 using DDD.Domain.Entities;
 using DDD.Service.Services;
-//maxwell
+using DDD.Service.Validators;
+
 namespace DDD.Application.Controllers
 {
     [Produces("application/json")]
@@ -23,6 +24,25 @@ namespace DDD.Application.Controllers
                 return BadRequest(ex);
             }
         }
+
+        [HttpPost]
+        public IActionResult Post([FromBody] Produto item)
+        {
+            try
+            {
+                service.Post<ProdutoValidator>(item);
+                return new ObjectResult(item.Id);
+            }
+            catch(ArgumentNullException ex)
+            {
+                return NotFound(ex);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
+
 
     }
 }
