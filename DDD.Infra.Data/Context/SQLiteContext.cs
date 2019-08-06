@@ -7,6 +7,7 @@ namespace DDD.Infra.Data.Context
     public class SQLiteContext : DbContext
     {
         public DbSet<User> User { get; set; }
+        public DbSet<Produto> Produto { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

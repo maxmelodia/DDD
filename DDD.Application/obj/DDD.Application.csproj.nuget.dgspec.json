@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DDD\\DDD.Application\\DDD.Application.csproj": {}
+    "E:\\PUC\\DDD\\DDD.Application\\DDD.Application.csproj": {}
   },
   "projects": {
-    "D:\\DDD\\DDD.Application\\DDD.Application.csproj": {
+    "E:\\PUC\\DDD\\DDD.Application\\DDD.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DDD\\DDD.Application\\DDD.Application.csproj",
+        "projectUniqueName": "E:\\PUC\\DDD\\DDD.Application\\DDD.Application.csproj",
         "projectName": "DDD.Application",
-        "projectPath": "D:\\DDD\\DDD.Application\\DDD.Application.csproj",
-        "packagesPath": "C:\\Users\\max1\\.nuget\\packages\\",
-        "outputPath": "D:\\DDD\\DDD.Application\\obj\\",
+        "projectPath": "E:\\PUC\\DDD\\DDD.Application\\DDD.Application.csproj",
+        "packagesPath": "C:\\Users\\mAX\\.nuget\\packages\\",
+        "outputPath": "E:\\PUC\\DDD\\DDD.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\max1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mAX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -28,11 +28,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj"
+              "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj"
               },
-              "D:\\DDD\\DDD.Service\\DDD.Service.csproj": {
-                "projectPath": "D:\\DDD\\DDD.Service\\DDD.Service.csproj"
+              "E:\\PUC\\DDD\\DDD.Service\\DDD.Service.csproj": {
+                "projectPath": "E:\\PUC\\DDD\\DDD.Service\\DDD.Service.csproj"
               }
             }
           }
@@ -76,20 +76,20 @@
         }
       }
     },
-    "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
+    "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj",
+        "projectUniqueName": "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj",
         "projectName": "DDD.Domain",
-        "projectPath": "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\max1\\.nuget\\packages\\",
-        "outputPath": "D:\\DDD\\DDD.Domain\\obj\\",
+        "projectPath": "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\mAX\\.nuget\\packages\\",
+        "outputPath": "E:\\PUC\\DDD\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\max1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mAX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -130,20 +130,20 @@
         }
       }
     },
-    "D:\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj": {
+    "E:\\PUC\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj",
+        "projectUniqueName": "E:\\PUC\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj",
         "projectName": "DDD.Infra.Data",
-        "projectPath": "D:\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\max1\\.nuget\\packages\\",
-        "outputPath": "D:\\DDD\\DDD.Infra.Data\\obj\\",
+        "projectPath": "E:\\PUC\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\mAX\\.nuget\\packages\\",
+        "outputPath": "E:\\PUC\\DDD\\DDD.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\max1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mAX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -154,8 +154,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj"
+              "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj"
               }
             }
           }
@@ -202,20 +202,20 @@
         }
       }
     },
-    "D:\\DDD\\DDD.Service\\DDD.Service.csproj": {
+    "E:\\PUC\\DDD\\DDD.Service\\DDD.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DDD\\DDD.Service\\DDD.Service.csproj",
+        "projectUniqueName": "E:\\PUC\\DDD\\DDD.Service\\DDD.Service.csproj",
         "projectName": "DDD.Service",
-        "projectPath": "D:\\DDD\\DDD.Service\\DDD.Service.csproj",
-        "packagesPath": "C:\\Users\\max1\\.nuget\\packages\\",
-        "outputPath": "D:\\DDD\\DDD.Service\\obj\\",
+        "projectPath": "E:\\PUC\\DDD\\DDD.Service\\DDD.Service.csproj",
+        "packagesPath": "C:\\Users\\mAX\\.nuget\\packages\\",
+        "outputPath": "E:\\PUC\\DDD\\DDD.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\max1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mAX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -226,11 +226,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "D:\\DDD\\DDD.Domain\\DDD.Domain.csproj"
+              "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "E:\\PUC\\DDD\\DDD.Domain\\DDD.Domain.csproj"
               },
-              "D:\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj": {
-                "projectPath": "D:\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj"
+              "E:\\PUC\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj": {
+                "projectPath": "E:\\PUC\\DDD\\DDD.Infra.Data\\DDD.Infra.Data.csproj"
               }
             }
           }

@@ -12,3 +12,17 @@ D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.AssemblyInfo.cs
 D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.csproj.CopyComplete
 D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.dll
 D:\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.pdb
+E:\PUC\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Service.deps.json
+E:\PUC\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Service.dll
+E:\PUC\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Service.pdb
+E:\PUC\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+E:\PUC\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Infra.Data.dll
+E:\PUC\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+E:\PUC\DDD\DDD.Service\bin\Debug\netcoreapp2.2\DDD.Infra.Data.pdb
+E:\PUC\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.csprojAssemblyReference.cache
+E:\PUC\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.csproj.CoreCompileInputs.cache
+E:\PUC\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.AssemblyInfoInputs.cache
+E:\PUC\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.AssemblyInfo.cs
+E:\PUC\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.csproj.CopyComplete
+E:\PUC\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.dll
+E:\PUC\DDD\DDD.Service\obj\Debug\netcoreapp2.2\DDD.Service.pdb

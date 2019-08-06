@@ -12,3 +12,17 @@ D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.AssemblyInfo.cs
 D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.csproj.CopyComplete
 D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.dll
 D:\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.pdb
+E:\PUC\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.deps.json
+E:\PUC\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.runtimeconfig.json
+E:\PUC\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.runtimeconfig.dev.json
+E:\PUC\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.dll
+E:\PUC\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Infra.Data.pdb
+E:\PUC\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+E:\PUC\DDD\DDD.Infra.Data\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+E:\PUC\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.csprojAssemblyReference.cache
+E:\PUC\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.csproj.CoreCompileInputs.cache
+E:\PUC\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.AssemblyInfoInputs.cache
+E:\PUC\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.AssemblyInfo.cs
+E:\PUC\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.csproj.CopyComplete
+E:\PUC\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.dll
+E:\PUC\DDD\DDD.Infra.Data\obj\Debug\netcoreapp2.2\DDD.Infra.Data.pdb

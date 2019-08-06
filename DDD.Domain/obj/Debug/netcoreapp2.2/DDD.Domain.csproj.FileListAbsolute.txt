@@ -7,3 +7,12 @@ D:\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfoInputs.cache
 D:\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfo.cs
 D:\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.dll
 D:\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.pdb
+E:\PUC\DDD\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.deps.json
+E:\PUC\DDD\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+E:\PUC\DDD\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+E:\PUC\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.csprojAssemblyReference.cache
+E:\PUC\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.csproj.CoreCompileInputs.cache
+E:\PUC\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfoInputs.cache
+E:\PUC\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfo.cs
+E:\PUC\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.dll
+E:\PUC\DDD\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.pdb
